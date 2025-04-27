@@ -71,4 +71,4 @@ $$
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/ACO-TSP.git
+git clone https://github.com/mert1996/ACO-TSP.git
