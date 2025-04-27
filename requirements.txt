@@ -1,4 +1,3 @@
 numpy~=2.2.5
 matplotlib~=3.10.1
 tsplib95~=0.7.1
-requests~=2.32.3
